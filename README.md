@@ -25,3 +25,5 @@ DC Power 1:35.0
 DC Power 2:18.0
 
 All Power data is in Watts. The script will loop every 10 seconds this in line with the API limitation from Solax Cloud. 
+
+**docker pull pfsykes/solax2influx**
